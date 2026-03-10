@@ -1,0 +1,3 @@
+C:/Massey/AS2/A2_StartUp_crossplatform_2025/Assignment2/cmake-build-debug/CMakeFiles/Assignment2.dir
+C:/Massey/AS2/A2_StartUp_crossplatform_2025/Assignment2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Massey/AS2/A2_StartUp_crossplatform_2025/Assignment2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
